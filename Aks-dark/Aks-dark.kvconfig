@@ -289,7 +289,7 @@ frame.left=1
 frame.right=1
 text.bold=true
 text.normal.color=#ffffff
-text.focus.color=#5796e8
+text.focus.color=#189294
 text.toggle.color=white
 frame.expansion=0
 
