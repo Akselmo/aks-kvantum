@@ -35,17 +35,17 @@
      guidetolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:window-width="936"
+     inkscape:window-width="1908"
      inkscape:window-height="1045"
      id="namedview951"
      showgrid="false"
-     inkscape:zoom="2.8284272"
-     inkscape:cx="193.04015"
-     inkscape:cy="1.9445436"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="126.57211"
+     inkscape:cy="159.80613"
      inkscape:window-x="6"
      inkscape:window-y="6"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg949"
+     inkscape:current-layer="g1996"
      inkscape:snap-global="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
@@ -155,7 +155,7 @@
        id="selected_bg_color"
        inkscape:swatch="solid">
       <stop
-         style="stop-color:#189294;stop-opacity:1;"
+         style="stop-color:#fd2e59;stop-opacity:1;"
          offset="0"
          id="stop5956" />
     </linearGradient>
