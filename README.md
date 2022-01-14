@@ -1,5 +1,11 @@
-# aks-kvantum
-my kvantum themes
+# aks-themes
+my kvantum, plasma and aurorae themes
+the readme files should have the respective licenses and original creators mentioned
 
-# Aks-dark
+# kvantum/Aks-dark
 based on Qogir https://github.com/vinceliuice/Qogir-kde
+
+# kvantum/Aks-dark_round
+based on arc-dark kvantum
+
+
