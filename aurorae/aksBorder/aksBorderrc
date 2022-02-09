@@ -8,8 +8,6 @@ InactiveFocusedTabColor=120,120,120
 InactiveTextColor=115,118,131
 InactiveTextShadowColor=255,255,255,255
 InactiveUnfocusedTabColor=120,120,120
-LeftButtons=XIA
-RightButtons=
 Shadow=true
 TextShadowOffsetX=1
 TextShadowOffsetY=1
@@ -18,7 +16,7 @@ TitleVerticalAlignment=Center
 UseTextShadow=true
 
 [Layout]
-BorderBottom=1
+BorderBottom=3
 BorderLeft=1
 BorderRight=1
 ButtonHeight=16
