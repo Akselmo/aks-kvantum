@@ -3,7 +3,7 @@ author=Akselmo
 comment=Based on Qogir dark solid
 x11drag=menubar_and_primary_toolbar
 alt_mnemonic=true
-left_tabs=true
+left_tabs=false
 attach_active_tab=false
 mirror_doc_tabs=true
 group_toolbar_buttons=false
@@ -68,7 +68,7 @@ reduce_window_opacity=0
 respect_DE=true
 saturation=1.00
 scrollable_menu=false
-shadowless_popup=true
+shadowless_popup=false
 submenu_delay=250
 drag_from_buttons=false
 
@@ -76,7 +76,7 @@ drag_from_buttons=false
 window.color=#202020
 inactive.window.color=#202020
 base.color=#202020
-inactive.base.color=#202020
+inactive.base.color=#121212
 alt.base.color=#333333
 inactive.alt.base.color=#333333
 button.color=#333333
@@ -208,7 +208,7 @@ text.focus.color=white
 
 [Focus]
 inherits=PanelButtonCommand
-frame=true
+frame=false
 frame.element=focus
 frame.top=1
 frame.bottom=1
