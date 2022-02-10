@@ -20,9 +20,9 @@
      inkscape:pageopacity="0.80392157"
      inkscape:pagecheckerboard="false"
      showgrid="false"
-     inkscape:zoom="1.3103821"
-     inkscape:cx="278.92628"
-     inkscape:cy="63.340304"
+     inkscape:zoom="0.92658007"
+     inkscape:cx="343.73716"
+     inkscape:cy="332.40516"
      inkscape:window-width="947"
      inkscape:window-height="1039"
      inkscape:window-x="6"
@@ -3011,7 +3011,7 @@
        id="path5304"
        transform="matrix(0,-1,-1,0,0,0)"
        d="m -410.02869,-608.99998 40,0 0,0.99998 -40,0 z"
-       style="opacity:0.001;fill:#000000;fill-opacity:1;stroke:none" />
+       style="fill:#474247;fill-opacity:1;stroke:none;stroke-width:3.42161" />
   </g>
   <g
      id="header-focused-right"
@@ -3020,7 +3020,7 @@
        id="path5308"
        transform="matrix(0,1,1,0,0,0)"
        d="m 370.02878,651.00002 40,0 0,1.00004 -40,0 z"
-       style="opacity:0.001;fill:#000000;fill-opacity:1;stroke:none" />
+       style="fill:#474247;fill-opacity:1;stroke:none;stroke-width:3.42161" />
   </g>
   <g
      id="header-focused-bottom"
@@ -3086,7 +3086,7 @@
        id="path5338"
        transform="matrix(0,-1,-1,0,0,0)"
        d="m -410.02869,-608.99998 40,0 0,0.99998 -40,0 z"
-       style="opacity:0.001;fill:#000000;fill-opacity:1;stroke:none" />
+       style="fill:#474247;fill-opacity:1;stroke:none;stroke-width:3.42161" />
   </g>
   <g
      id="header-normal-right"
@@ -3095,7 +3095,7 @@
        id="path5342"
        transform="matrix(0,1,1,0,0,0)"
        d="m 370.02878,651.00002 40,0 0,1.00004 -40,0 z"
-       style="opacity:0.001;fill:#000000;fill-opacity:1;stroke:none" />
+       style="fill:#474247;fill-opacity:1;stroke:none;stroke-width:3.42161" />
   </g>
   <g
      id="header-normal-bottom"
