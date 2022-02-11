@@ -21,9 +21,9 @@
      inkscape:pagecheckerboard="false"
      showgrid="false"
      inkscape:zoom="5.6568543"
-     inkscape:cx="237.85304"
-     inkscape:cy="585.66119"
-     inkscape:window-width="1904"
+     inkscape:cx="163.43005"
+     inkscape:cy="593.61614"
+     inkscape:window-width="947"
      inkscape:window-height="1041"
      inkscape:window-x="6"
      inkscape:window-y="6"
@@ -2365,7 +2365,7 @@
        style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none" />
   </g>
   <g
-     id="g25403"
+     id="itemview-focused-left"
      transform="matrix(0.44036689,0,0,-1.999996,448.85999,2181.7933)">
     <rect
        id="rect6260"
@@ -2376,7 +2376,7 @@
        style="color:#189294;fill:#189294;fill-opacity:1;stroke:none;opacity:0.2" />
   </g>
   <g
-     id="g25407"
+     id="itemview-focused-bottom"
      transform="matrix(0.84070043,0,0,-1.1999995,737.02299,1538.1291)">
     <rect
        id="rect6264"
@@ -2387,7 +2387,7 @@
        style="color:#189294;fill:#189294;fill-opacity:1;stroke:none;opacity:0.2" />
   </g>
   <rect
-     id="rect25397"
+     id="itemview-focused-top"
      width="46.239"
      height="3.6"
      x="131.88"
@@ -2395,7 +2395,7 @@
      transform="scale(1,-1)"
      style="fill:#189294;fill-opacity:1;stroke:none;opacity:0.2" />
   <g
-     id="g25411"
+     id="itemview-focused-right"
      transform="matrix(0.44036689,0,0,-1.999996,470.87829,2181.7933)">
     <rect
        id="rect6270"
@@ -2406,7 +2406,7 @@
        style="color:#189294;fill:#189294;fill-opacity:1;stroke:none;opacity:0.2" />
   </g>
   <rect
-     id="itemview-pressed"
+     id="itemview-focused"
      width="46.239"
      height="42"
      x="131.88"
@@ -2414,21 +2414,21 @@
      transform="scale(1,-1)"
      style="color:#189294;fill:#189294;fill-opacity:1;stroke:none;opacity:0.2" />
   <path
-     id="path25401"
+     id="itemview-focused-topleft"
      d="m 131.88074,557.02872 c -0.48641,0 -0.88073,1.0745 -0.88073,2.4 l 0,1.2 0.88073,0 0,-1.2 0,-2.4 z"
      style="fill:#189294;fill-opacity:1;stroke:none;opacity:0.2" />
   <path
-     id="path25409"
+     id="itemview-focused-bottomright"
      transform="scale(-1,-1)"
      d="m -179,-602.6286 a 0.88073379,2.3999989 0 0 1 0.88074,-2.4 l 0,2.4 z"
      style="color:#189294;fill:#189294;fill-opacity:1;stroke:none;opacity:0.2" />
   <path
-     id="path25405"
+     id="itemview-focused-bottomleft"
      transform="scale(1,-1)"
      d="m 131,-602.6286 a 0.88073379,2.3999989 0 0 1 0.88074,-2.4 l 0,2.4 z"
      style="color:#189294;fill:#189294;fill-opacity:1;stroke:none;opacity:0.2" />
   <path
-     id="path25399"
+     id="itemview-focused-topright"
      d="m 178.11927,557.02872 c 0.48641,0 0.88073,1.0745 0.88073,2.4 l 0,1.2 -0.88073,0 0,-1.2 0,-2.4 z"
      style="fill:#189294;fill-opacity:1;stroke:none;opacity:0.2" />
   <g
@@ -8137,7 +8137,7 @@
        style="fill:#189294;fill-opacity:0.5;stroke:none" />
   </g>
   <rect
-     id="rect27009"
+     id="itemview-pressed"
      width="46.238998"
      height="43.077"
      x="273.15759"
