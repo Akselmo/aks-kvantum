@@ -21,9 +21,9 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="13.125"
-     inkscape:cx="12.647619"
-     inkscape:cy="26.247619"
-     inkscape:window-width="1908"
+     inkscape:cx="10.019048"
+     inkscape:cy="9.9428571"
+     inkscape:window-width="951"
      inkscape:window-height="1048"
      inkscape:window-x="6"
      inkscape:window-y="6"
@@ -586,7 +586,7 @@
      transform="matrix(0,1,1,0,0,0)" />
   <rect
      id="north-attention-center"
-     style="opacity:1;fill:currentColor"
+     style="opacity:0.25;fill:currentColor"
      class="ColorScheme-NeutralText"
      width="4"
      height="4"
@@ -1193,7 +1193,7 @@
      transform="matrix(0,1,1,0,0,0)" />
   <rect
      id="attention-center"
-     style="opacity:1;fill:currentColor"
+     style="opacity:0.25;fill:currentColor"
      class="ColorScheme-NeutralText"
      width="4"
      height="4"
@@ -1509,7 +1509,7 @@
      transform="matrix(0,1,1,0,0,0)" />
   <rect
      id="east-attention-center"
-     style="opacity:1;fill:currentColor"
+     style="opacity:0.25;fill:currentColor"
      class="ColorScheme-NeutralText"
      width="4"
      height="4"
@@ -1825,7 +1825,7 @@
      transform="matrix(0,1,1,0,0,0)" />
   <rect
      id="west-attention-center"
-     style="opacity:1;fill:currentColor"
+     style="opacity:0.25;fill:currentColor"
      class="ColorScheme-NeutralText"
      width="4"
      height="4"
