@@ -9,7 +9,6 @@
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -36,16 +35,6 @@
          offset="0"
          id="stop2416" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2418"
-       id="linearGradient2420"
-       x1="5.3431432"
-       y1="9.232235"
-       x2="16.656854"
-       y2="9.232235"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,-0.707183)" />
   </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
@@ -57,19 +46,19 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1049"
-     inkscape:window-height="1015"
+     inkscape:window-width="947"
+     inkscape:window-height="1009"
      id="namedview36"
      showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:zoom="6.8300087"
-     inkscape:cx="46.412825"
-     inkscape:cy="38.506539"
+     inkscape:zoom="27.320035"
+     inkscape:cx="73.425968"
+     inkscape:cy="13.103936"
      inkscape:window-x="10"
-     inkscape:window-y="34"
+     inkscape:window-y="40"
      inkscape:window-maximized="1"
-     inkscape:current-layer="active-center"
+     inkscape:current-layer="svg4306"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
@@ -102,7 +91,7 @@
     <path
        class="ColorScheme-Text"
        d="M 15.419922,7.2871103 14.712891,6.5800793 11,10.292817 7.287109,6.5800793 6.580078,7.2871103 11,11.707032 Z M 6.580078,14.712892 7.287109,15.419923 11,11.707032 14.712891,15.419923 15.419922,14.712892 11,10.292817 Z"
-       style="opacity:0.3;fill:url(#linearGradient2420);fill-opacity:1;fill-rule:nonzero"
+       style="opacity:0.3;fill:currentColor;fill-opacity:1;fill-rule:nonzero"
        id="path867-5-3-3-6-6"
        sodipodi:nodetypes="cccccccccccccc" />
   </g>
