@@ -1,0 +1,20 @@
+[BlurBehindEffect]
+enabled=true
+
+[ContrastEffect]
+contrast=0.30
+enabled=true
+saturation=1.6
+
+[Desktop Entry]
+Comment=Based on Aritim Black Solid
+Name=AksTheme_Rounded
+X-KDE-PluginInfo-Author=Akselmo original by Mrcuve0
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Email=akselmo@akselmo.dev
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=CC BY-SA 4.0
+X-KDE-PluginInfo-Name=AksTheme_Rounded
+X-KDE-PluginInfo-Version=0.7.22
+X-KDE-PluginInfo-Website=https://github.com/Mrcuve0
+X-Plasma-API=5.0
