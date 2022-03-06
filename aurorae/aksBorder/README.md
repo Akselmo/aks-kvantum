@@ -1,5 +1,5 @@
 # icons license and source
-https://github.com/bolimage/Dark-Aurorae/blob/master/LICENSE
+https://store.kde.org/p/1709567
 
 # background svg
 https://store.kde.org/p/1217715/
