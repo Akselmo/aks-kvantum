@@ -19,7 +19,7 @@ IntensityAmount=0
 IntensityEffect=0
 
 [Colors:Button]
-BackgroundAlternate=96,96,96
+BackgroundAlternate=33,33,33
 BackgroundNormal=40,40,40
 DecorationFocus=33,199,202
 DecorationHover=33,199,202
@@ -33,7 +33,7 @@ ForegroundPositive=108,204,45
 ForegroundVisited=51,214,214
 
 [Colors:Complementary]
-BackgroundAlternate=96,96,96
+BackgroundAlternate=49,49,49
 BackgroundNormal=32,32,32
 DecorationFocus=33,199,202
 DecorationHover=33,199,202
@@ -47,7 +47,7 @@ ForegroundPositive=108,204,45
 ForegroundVisited=159,159,159
 
 [Colors:Header]
-BackgroundAlternate=32,32,32
+BackgroundAlternate=43,43,43
 BackgroundNormal=32,32,32
 DecorationFocus=33,199,202
 DecorationHover=33,199,202
@@ -89,7 +89,7 @@ ForegroundPositive=89,161,41.75
 ForegroundVisited=46.25,168.5,168.5
 
 [Colors:Tooltip]
-BackgroundAlternate=32,32,32
+BackgroundAlternate=43,43,43
 BackgroundNormal=32,32,32
 DecorationFocus=33,199,202
 DecorationHover=33,199,202
@@ -117,7 +117,7 @@ ForegroundPositive=108,204,45
 ForegroundVisited=51,214,214
 
 [Colors:Window]
-BackgroundAlternate=32,32,32
+BackgroundAlternate=43,43,43
 BackgroundNormal=32,32,32
 DecorationFocus=33,199,202
 DecorationHover=33,199,202
@@ -136,7 +136,7 @@ Name=AksDark
 shadeSortColumn=true
 
 [KDE]
-contrast=4
+contrast=5
 
 [WM]
 activeBackground=32,32,32
