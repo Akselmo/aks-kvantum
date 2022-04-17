@@ -1,10 +1,10 @@
-<scheme name="themer-dark copy" version="142" parent_scheme="Default">
+<scheme name="AksDark" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2022-04-17T22:06:03</property>
+    <property name="created">2022-04-17T22:09:45</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2021.3.4.0.0</property>
-    <property name="modified">2022-04-17T22:06:20</property>
-    <property name="originalScheme">themer-dark copy</property>
+    <property name="modified">2022-04-17T22:09:49</property>
+    <property name="originalScheme">AksDark</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="6ccc2d" />
@@ -2513,6 +2513,11 @@
     <option name="OC.IVAR">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="OC.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="21c7ca" />
       </value>
     </option>
     <option name="OC.LABEL">
