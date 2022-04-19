@@ -42,7 +42,8 @@
             "text-color": "#6ccc2d"
         },
         "Annotation": {
-            "text-color": "#33d6d6"
+            "selected-text-color": "#8394ff",
+            "text-color": "#8394ff"
         },
         "Attribute": {
             "selected-text-color": "#3b96ff",
@@ -109,8 +110,8 @@
             "text-color": "#ff1aba"
         },
         "Import": {
-            "selected-text-color": "#21c7ca",
-            "text-color": "#21c7ca"
+            "selected-text-color": "#8394ff",
+            "text-color": "#8394ff"
         },
         "Information": {
             "selected-text-color": "#ffbf40",
@@ -126,7 +127,8 @@
             "text-color": "#ffffff"
         },
         "Operator": {
-            "text-color": "#33d6d6"
+            "selected-text-color": "#8394ff",
+            "text-color": "#8394ff"
         },
         "Others": {
             "selected-text-color": "#6ccc2d",
