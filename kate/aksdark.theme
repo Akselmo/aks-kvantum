@@ -119,8 +119,8 @@
         },
         "Keyword": {
             "bold": true,
-            "selected-text-color": "#ffffff",
-            "text-color": "#ffffff"
+            "selected-text-color": "#21c7ca",
+            "text-color": "#21c7ca"
         },
         "Normal": {
             "selected-text-color": "#ffffff",
